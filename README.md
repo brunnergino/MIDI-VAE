@@ -1,5 +1,11 @@
 # MIDI-VAE
 
+## Paper
+TBD
+
+## Music Samples
+
+www.youtube.com/channel/UCCkFzSvCae8ySmKCCWM5Mpg
 
 ## PREPARATION
 
