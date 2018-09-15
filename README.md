@@ -14,7 +14,7 @@ www.youtube.com/channel/UCCkFzSvCae8ySmKCCWM5Mpg
 
 ## Dataset
 
-TBD
+All the music pieces we used for generating the audio samples on Youtube and the evaluation in the paper can be downloaded here: https://goo.gl/sNpgQ7
 
 ## Preparation
 
