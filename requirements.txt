@@ -1,0 +1,11 @@
+numpy
+matplotlib
+progressbar
+sklearn
+scipy
+keras
+tensorflow
+pretty_midi
+matplotlib2tikz
+theano
+git+https://github.com/farizrahman4u/recurrentshop
